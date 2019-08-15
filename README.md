@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+Mr.Ju1976 here,i like play games and eat some chinese food
